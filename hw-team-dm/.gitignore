@@ -1,0 +1,9 @@
+.classpath
+.idea/
+.project
+**.iml
+**.bin
+map_/
+navmesh/
+skip.*
+target/
