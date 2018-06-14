@@ -2,3 +2,9 @@
 **/*.iml
 **/.idea/
 **/.svn/
+**/*.navmesh
+**/*.ut2
+**/*.ini
+**/*.bat
+**/*.u
+**/*.ucl
